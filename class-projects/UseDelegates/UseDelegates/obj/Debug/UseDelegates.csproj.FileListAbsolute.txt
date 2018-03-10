@@ -1,0 +1,7 @@
+C:\Users\sol\source\repos\UseDelegates\UseDelegates\bin\Debug\UseDelegates.exe.config
+C:\Users\sol\source\repos\UseDelegates\UseDelegates\bin\Debug\UseDelegates.exe
+C:\Users\sol\source\repos\UseDelegates\UseDelegates\bin\Debug\UseDelegates.pdb
+C:\Users\sol\source\repos\UseDelegates\UseDelegates\obj\Debug\UseDelegates.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\UseDelegates\UseDelegates\obj\Debug\UseDelegates.exe
+C:\Users\sol\source\repos\UseDelegates\UseDelegates\obj\Debug\UseDelegates.pdb
+C:\Users\sol\source\repos\UseDelegates\UseDelegates\obj\Debug\UseDelegates.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\sol\source\repos\GetOddNumbers\GetOddNumbers\bin\Debug\GetOddNumbers.exe.config
+C:\Users\sol\source\repos\GetOddNumbers\GetOddNumbers\bin\Debug\GetOddNumbers.exe
+C:\Users\sol\source\repos\GetOddNumbers\GetOddNumbers\bin\Debug\GetOddNumbers.pdb
+C:\Users\sol\source\repos\GetOddNumbers\GetOddNumbers\obj\Debug\GetOddNumbers.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\GetOddNumbers\GetOddNumbers\obj\Debug\GetOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\GetOddNumbers\GetOddNumbers\obj\Debug\GetOddNumbers.exe
+C:\Users\sol\source\repos\GetOddNumbers\GetOddNumbers\obj\Debug\GetOddNumbers.pdb

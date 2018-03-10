@@ -1,0 +1,7 @@
+C:\Users\sol\source\repos\UseTimer_EventBased\UseTimer_EventBased\obj\Debug\UseTimer_EventBased.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\UseTimer_EventBased\UseTimer_EventBased\bin\Debug\UseTimer_EventBased.exe.config
+C:\Users\sol\source\repos\UseTimer_EventBased\UseTimer_EventBased\bin\Debug\UseTimer_EventBased.exe
+C:\Users\sol\source\repos\UseTimer_EventBased\UseTimer_EventBased\bin\Debug\UseTimer_EventBased.pdb
+C:\Users\sol\source\repos\UseTimer_EventBased\UseTimer_EventBased\obj\Debug\UseTimer_EventBased.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\UseTimer_EventBased\UseTimer_EventBased\obj\Debug\UseTimer_EventBased.exe
+C:\Users\sol\source\repos\UseTimer_EventBased\UseTimer_EventBased\obj\Debug\UseTimer_EventBased.pdb

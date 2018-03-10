@@ -1,0 +1,7 @@
+C:\Users\sol\source\repos\GenericUsage\GenericUsage\obj\Debug\GenericUsage.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\GenericUsage\GenericUsage\obj\Debug\GenericUsage.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\GenericUsage\GenericUsage\bin\Debug\GenericUsage.exe.config
+C:\Users\sol\source\repos\GenericUsage\GenericUsage\bin\Debug\GenericUsage.exe
+C:\Users\sol\source\repos\GenericUsage\GenericUsage\bin\Debug\GenericUsage.pdb
+C:\Users\sol\source\repos\GenericUsage\GenericUsage\obj\Debug\GenericUsage.exe
+C:\Users\sol\source\repos\GenericUsage\GenericUsage\obj\Debug\GenericUsage.pdb

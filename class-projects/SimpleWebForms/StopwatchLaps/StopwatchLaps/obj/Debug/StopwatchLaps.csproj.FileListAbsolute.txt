@@ -1,0 +1,10 @@
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\bin\Debug\StopwatchLaps.exe.config
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\bin\Debug\StopwatchLaps.exe
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\bin\Debug\StopwatchLaps.pdb
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\obj\Debug\StopwatchLaps.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\obj\Debug\StopwatchLaps.frmAdvancedStopwatch.resources
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\obj\Debug\StopwatchLaps.Properties.Resources.resources
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\obj\Debug\StopwatchLaps.csproj.GenerateResource.Cache
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\obj\Debug\StopwatchLaps.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\obj\Debug\StopwatchLaps.exe
+C:\Users\sol\source\repos\StopwatchLaps\StopwatchLaps\obj\Debug\StopwatchLaps.pdb

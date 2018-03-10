@@ -1,0 +1,7 @@
+C:\Users\sol\source\repos\UsePredicatesAndLambdas\UsePredicatesAndLambdas\bin\Debug\UsePredicatesAndLambdas.exe.config
+C:\Users\sol\source\repos\UsePredicatesAndLambdas\UsePredicatesAndLambdas\bin\Debug\UsePredicatesAndLambdas.exe
+C:\Users\sol\source\repos\UsePredicatesAndLambdas\UsePredicatesAndLambdas\bin\Debug\UsePredicatesAndLambdas.pdb
+C:\Users\sol\source\repos\UsePredicatesAndLambdas\UsePredicatesAndLambdas\obj\Debug\UsePredicatesAndLambdas.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\UsePredicatesAndLambdas\UsePredicatesAndLambdas\obj\Debug\UsePredicatesAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\UsePredicatesAndLambdas\UsePredicatesAndLambdas\obj\Debug\UsePredicatesAndLambdas.exe
+C:\Users\sol\source\repos\UsePredicatesAndLambdas\UsePredicatesAndLambdas\obj\Debug\UsePredicatesAndLambdas.pdb

@@ -1,0 +1,7 @@
+C:\Users\sol\source\repos\BasicLinq\BasicLinq\bin\Debug\BasicLinq.exe.config
+C:\Users\sol\source\repos\BasicLinq\BasicLinq\bin\Debug\BasicLinq.exe
+C:\Users\sol\source\repos\BasicLinq\BasicLinq\bin\Debug\BasicLinq.pdb
+C:\Users\sol\source\repos\BasicLinq\BasicLinq\obj\Debug\BasicLinq.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\BasicLinq\BasicLinq\obj\Debug\BasicLinq.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\BasicLinq\BasicLinq\obj\Debug\BasicLinq.exe
+C:\Users\sol\source\repos\BasicLinq\BasicLinq\obj\Debug\BasicLinq.pdb

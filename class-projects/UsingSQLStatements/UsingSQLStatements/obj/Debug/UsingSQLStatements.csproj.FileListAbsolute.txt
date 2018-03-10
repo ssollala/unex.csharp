@@ -1,0 +1,7 @@
+C:\Users\sol\source\repos\UsingSQLStatements\UsingSQLStatements\bin\Debug\UsingSQLStatements.exe.config
+C:\Users\sol\source\repos\UsingSQLStatements\UsingSQLStatements\bin\Debug\UsingSQLStatements.exe
+C:\Users\sol\source\repos\UsingSQLStatements\UsingSQLStatements\bin\Debug\UsingSQLStatements.pdb
+C:\Users\sol\source\repos\UsingSQLStatements\UsingSQLStatements\obj\Debug\UsingSQLStatements.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\UsingSQLStatements\UsingSQLStatements\obj\Debug\UsingSQLStatements.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\UsingSQLStatements\UsingSQLStatements\obj\Debug\UsingSQLStatements.exe
+C:\Users\sol\source\repos\UsingSQLStatements\UsingSQLStatements\obj\Debug\UsingSQLStatements.pdb

@@ -1,0 +1,10 @@
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\bin\Debug\SimpleStopwatch.exe.config
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\bin\Debug\SimpleStopwatch.exe
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\bin\Debug\SimpleStopwatch.pdb
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\obj\Debug\SimpleStopwatch.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\obj\Debug\SimpleStopwatch.Form1.resources
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\obj\Debug\SimpleStopwatch.Properties.Resources.resources
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\obj\Debug\SimpleStopwatch.csproj.GenerateResource.Cache
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\obj\Debug\SimpleStopwatch.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\obj\Debug\SimpleStopwatch.exe
+C:\Users\sol\source\repos\SimpleStopwatch\SimpleStopwatch\obj\Debug\SimpleStopwatch.pdb

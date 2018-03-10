@@ -1,0 +1,10 @@
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe.config
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.pdb
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.fmDigitalClock.resources
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Properties.Resources.resources
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.GenerateResource.Cache
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.exe
+C:\Users\sol\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.pdb

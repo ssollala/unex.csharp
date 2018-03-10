@@ -1,0 +1,7 @@
+C:\Users\sol\source\repos\ZooInterface\ZooInterface\obj\Debug\ZooInterface.csprojResolveAssemblyReference.cache
+C:\Users\sol\source\repos\ZooInterface\ZooInterface\obj\Debug\ZooInterface.csproj.CoreCompileInputs.cache
+C:\Users\sol\source\repos\ZooInterface\ZooInterface\bin\Debug\ZooInterface.exe.config
+C:\Users\sol\source\repos\ZooInterface\ZooInterface\bin\Debug\ZooInterface.exe
+C:\Users\sol\source\repos\ZooInterface\ZooInterface\bin\Debug\ZooInterface.pdb
+C:\Users\sol\source\repos\ZooInterface\ZooInterface\obj\Debug\ZooInterface.exe
+C:\Users\sol\source\repos\ZooInterface\ZooInterface\obj\Debug\ZooInterface.pdb
